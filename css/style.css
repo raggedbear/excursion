@@ -5,4 +5,30 @@ h1{
 }
 body{
     text-align: center;
+    background-color:black;
+    font-family:Verdana;
+
+}
+.secondPart p{
+    font-size: 21px;
+    color:gray;
+}
+
+#link {
+    color: Aquamarine;
+    font-size: 16px;
+}
+.secondPart h2{
+    font-size:42px;
+    font-weight:300;
+    color:white;
+}
+.finalPart h2{
+    font-size:42px;
+    font-weight:300;
+    color:white;
+}
+#footer{
+    font-size:21px;
+    color:white;
 }
